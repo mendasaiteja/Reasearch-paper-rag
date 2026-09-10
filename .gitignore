@@ -5,3 +5,4 @@ venv/
 .venv/
 *.pdf
 .env
+example.py
