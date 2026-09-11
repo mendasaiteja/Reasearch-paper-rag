@@ -6,3 +6,6 @@ venv/
 *.pdf
 .env
 example.py
+test.py
+test_db
+test_ollama.py
